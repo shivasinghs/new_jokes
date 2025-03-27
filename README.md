@@ -21,4 +21,4 @@ Example
 const { getJokes } = require('random-jokes');
 
 console.log(getJokes());
-// Output: "Why don't skeletons fight each other? They don't have the guts."
+// Output: "I’m reading a book about anti-gravity. It’s impossible to put down."
