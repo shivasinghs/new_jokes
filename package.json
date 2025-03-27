@@ -1,0 +1,33 @@
+{
+  "name": "new_jokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "jokes",
+    "next js",
+    "node js",
+    "React js",
+    "vue js",
+    "Typescript",
+    "express js",
+    "Adonis js",
+    "Svelte",
+    "Nuxt js"
+  ],
+  "author": "shiva",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "typescript": "^5.8.2"
+  }
+}
